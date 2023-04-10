@@ -1,4 +1,9 @@
 # Linux刷机百宝箱📦
+
+## 许可证
+
+此项目使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可证，详情请查看 [LICENSE](LICENSE) 文件。
+
 ## 背景
 作者在日常的刷机和搞机过程中发现了以下几点问题
 1. 大部分专业从事代码人员使用的都是`Mac`系统和`Linux`系统
